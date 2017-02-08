@@ -7,5 +7,6 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-heroku-keepalive",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-business-cat"
 ]
