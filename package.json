@@ -7,7 +7,6 @@
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-business-cat": "^1.5.3",
-    "hubot-confluence-search": "^1.1.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-dogeme": "^1.0.0",
     "hubot-drumpf": "^1.0.2",
