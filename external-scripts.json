@@ -10,5 +10,6 @@
   "hubot-shipit",
   "hubot-business-cat",
   "hubot-fliptable",
-  "hubot-dogeme"
+  "hubot-dogeme",
+  "hubot-jira-linkifier"
 ]
