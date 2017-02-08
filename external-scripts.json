@@ -11,5 +11,8 @@
   "hubot-business-cat",
   "hubot-fliptable",
   "hubot-dogeme",
-  "hubot-jira-linkifier"
+  "hubot-jira-linkifier",
+  "hubot-letthehate",
+  "hubot-drumpf",
+  "hubot-confluence-search"
 ]
