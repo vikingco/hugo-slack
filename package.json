@@ -5,6 +5,7 @@
   "author": "jan@unleashed.be",
   "description": "I'm just being silly",
   "dependencies": {
+    "hoek": "^2.14.0",
     "hubot": "^2.19.0",
     "hubot-business-cat": "^1.5.3",
     "hubot-diagnostics": "0.0.1",
