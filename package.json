@@ -8,6 +8,7 @@
     "hoek": "^2.14.0",
     "hubot": "^2.19.0",
     "hubot-business-cat": "^1.5.3",
+    "hubot-daily-update": "^1.1.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-dogeme": "^1.0.0",
     "hubot-drumpf": "^1.0.2",
